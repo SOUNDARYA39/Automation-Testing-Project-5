@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-05T12:06:27 IST" name="Default suite" finished-at="2023-07-05T12:07:53 IST" duration-ms="85731">
+    <groups>
+    </groups>
+    <test started-at="2023-07-05T12:06:27 IST" name="Default test" finished-at="2023-07-05T12:07:53 IST" duration-ms="85731">
+      <class name="mvncmd.Sample">
+        <test-method signature="createCamp()[pri:0, instance:mvncmd.Sample@60bd273d]" started-at="2023-07-05T12:06:27 IST" name="createCamp" finished-at="2023-07-05T12:07:07 IST" duration-ms="39329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCamp -->
+        <test-method signature="createOrg()[pri:0, instance:mvncmd.Sample@60bd273d]" started-at="2023-07-05T12:07:07 IST" name="createOrg" finished-at="2023-07-05T12:07:53 IST" duration-ms="46277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrg -->
+      </class> <!-- mvncmd.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
